@@ -1,7 +1,7 @@
 # Book Store
 
 # About the project
-Them aim of this project was to develope a simple Rest API simulating a Book Store using Django Rest Framework 
+The aim of this project was to develope a simple Rest API simulating a Book Store using Django Rest Framework 
 also using Token JWT for Authentication.
 
 Some of the features added to this project were:
